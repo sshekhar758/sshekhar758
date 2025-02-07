@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sshekhar758
-- 👀 I’m interested in ui/ux design     
-- 🌱 I’m currently learning Adobe Ai,xd,ps along with figma and Artificial intelligence
-- 💞️ I’m looking to collaborate on design projects
+- The skills which I'm good at is HTML,CSS,JAVA SCRIPT and React
+- 👀 I’m interested in Web Development    
+- 🌱 I’m currently learning Mongo DB
+- 💞️ I’m looking to collaborate on Web design projects
 - 📫 How to reach me sshekhar758@gmail.com
 
 <!---
